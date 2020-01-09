@@ -26,3 +26,15 @@ Por último se cuentan con dos LEDs que indican el estado actual del boiler, sie
 ## Diagrama del circuito
 
 ![Diagrama circuito](https://github.com/Juandamartn/boiler-arduino/blob/master/diagrama.png)
+
+Se puede ver con detalle el circuito y funcionamiento en Tinkercad [aquí][tinker]
+
+[tinker]: https://www.tinkercad.com/things/bZsRw5WPWK4
+
+## Video de funcionamiento
+
+![Prototipo circuito](https://github.com/Juandamartn/boiler-arduino/blob/master/boiler%20arduino.jpg)
+
+[Enlace al video][vid]
+
+[vid]: https://drive.google.com/file/d/1C5zObRX8bwOxj7cgjiljcwaA5zwxyvLs/view?usp=sharing
