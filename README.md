@@ -31,6 +31,8 @@ Se puede ver con detalle el circuito y funcionamiento en Tinkercad [aquí][tinke
 
 [tinker]: https://www.tinkercad.com/things/bZsRw5WPWK4
 
+**NOTA:** En la simulación de Tinkercad el potenciómetro funciona de una manera un poco diferente al componente real, por lo que sólamente detectará el estado *Verano* y *Apagado*. Sin embargo el video abajo mostrará el funcionamiento real.
+
 ## Video de funcionamiento
 
 ![Prototipo circuito](https://github.com/Juandamartn/boiler-arduino/blob/master/boiler%20arduino.jpg)
