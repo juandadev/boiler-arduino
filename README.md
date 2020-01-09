@@ -25,4 +25,4 @@ Por último se cuentan con dos LEDs que indican el estado actual del boiler, sie
 
 ## Diagrama del circuito
 
-![Diagrama circuito](https://imgur.com/a/SRwEcm9)
+![Diagrama circuito](https://github.com/Juandamartn/boiler-arduino/blob/master/diagrama.png)
